@@ -1,0 +1,16 @@
+C:\Users\Yui\Desktop\parking\bin\Debug\net5.0\parking.exe
+C:\Users\Yui\Desktop\parking\bin\Debug\net5.0\parking.deps.json
+C:\Users\Yui\Desktop\parking\bin\Debug\net5.0\parking.runtimeconfig.json
+C:\Users\Yui\Desktop\parking\bin\Debug\net5.0\parking.runtimeconfig.dev.json
+C:\Users\Yui\Desktop\parking\bin\Debug\net5.0\parking.dll
+C:\Users\Yui\Desktop\parking\bin\Debug\net5.0\ref\parking.dll
+C:\Users\Yui\Desktop\parking\bin\Debug\net5.0\parking.pdb
+C:\Users\Yui\Desktop\parking\obj\Debug\net5.0\parking.csproj.AssemblyReference.cache
+C:\Users\Yui\Desktop\parking\obj\Debug\net5.0\parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yui\Desktop\parking\obj\Debug\net5.0\parking.AssemblyInfoInputs.cache
+C:\Users\Yui\Desktop\parking\obj\Debug\net5.0\parking.AssemblyInfo.cs
+C:\Users\Yui\Desktop\parking\obj\Debug\net5.0\parking.csproj.CoreCompileInputs.cache
+C:\Users\Yui\Desktop\parking\obj\Debug\net5.0\parking.dll
+C:\Users\Yui\Desktop\parking\obj\Debug\net5.0\ref\parking.dll
+C:\Users\Yui\Desktop\parking\obj\Debug\net5.0\parking.pdb
+C:\Users\Yui\Desktop\parking\obj\Debug\net5.0\parking.genruntimeconfig.cache
